@@ -1,0 +1,1 @@
+<h1>Consultar rifa por id</h1>
